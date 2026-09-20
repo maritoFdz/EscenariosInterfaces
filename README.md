@@ -1,6 +1,6 @@
 # Laboratorio — Escenarios e Interfaces en C#
 
-📅 Fecha: 08/09/2026
+📅 Fecha: 20/09/2026
 
 ## 📋 Contenido del Repositorio
 
