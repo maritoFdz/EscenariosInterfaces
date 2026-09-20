@@ -1,0 +1,17 @@
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\config.xml
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\Escenario3.exe
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\Escenario3.deps.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\Escenario3.runtimeconfig.json
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\Escenario3.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\bin\Debug\net9.0-windows\Escenario3.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.Form1.resources
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.csproj.GenerateResource.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.AssemblyInfoInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.AssemblyInfo.cs
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.csproj.CoreCompileInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\refint\Escenario3.dll
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\Escenario3.genruntimeconfig.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario3\obj\Debug\net9.0-windows\ref\Escenario3.dll

@@ -1,0 +1,10 @@
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\bin\Debug\Escenario1.exe.config
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\bin\Debug\Escenario1.exe
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\bin\Debug\Escenario1.pdb
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.csproj.AssemblyReference.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.Form1.resources
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.Properties.Resources.resources
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.csproj.GenerateResource.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.csproj.CoreCompileInputs.cache
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.exe
+D:\Universidad\Herramientas de Programación Aplicadas 3\Escenarios Charla\Escenario1\obj\Debug\Escenario1.pdb

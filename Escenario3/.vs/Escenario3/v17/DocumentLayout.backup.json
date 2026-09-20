@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\escenarios charla\\escenario3\\config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\escenarios charla\\escenario3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\escenarios charla\\escenario3\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\escenarios charla\\escenario3\\configapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:configapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|d:\\universidad\\herramientas de programaci\u00F3n aplicadas 3\\escenarios charla\\escenario3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD3BDB8-F068-4D79-8E75-7617C9A86A31}|Escenario3.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:22:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:21:44.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilidades.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Utilidades.cs",
+              "RelativeDocumentMoniker": "Utilidades.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Utilidades.cs",
+              "RelativeToolTip": "Utilidades.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:16:37.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigApp.cs",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\ConfigApp.cs",
+              "RelativeDocumentMoniker": "ConfigApp.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\ConfigApp.cs",
+              "RelativeToolTip": "ConfigApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T01:15:33.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.xml",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\config.xml",
+              "RelativeDocumentMoniker": "config.xml",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\config.xml",
+              "RelativeToolTip": "config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-14T01:14:23.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Universidad\\Herramientas de Programaci\u00F3n Aplicadas 3\\Escenarios Charla\\Escenario3\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T00:30:03.695Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

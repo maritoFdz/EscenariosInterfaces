@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuracion>
+	<Parametro nombre="TituloApp">Sistema de Registro de Usuarios</Parametro>
+	<Parametro nombre="LongitudMinimaPassword">6</Parametro>
+	<Parametro nombre="MaxIntentosFallidos">3</Parametro>
+</Configuracion>
